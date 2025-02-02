@@ -16,7 +16,7 @@ Switches - Connected via Ethernet cable with trunking enabled. Supports communic
 
 Servers - DHCP enabled.
 
-Routers - OSPF routing enabled, allowing for efficient travel of information bnetween devices.
+Routers - OSPF routing enabled, allowing for efficient travel of information between devices.
 
 ISP - A special router connecting the Cluster network to the main branch. PAT has been enabled to translate all addresses in the Cluster to a single private IP.
 
